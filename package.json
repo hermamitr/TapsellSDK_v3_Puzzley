@@ -1,6 +1,6 @@
 {
   "name": "tapsell-puzzley",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Tapsell sdk v3 for puzzley",
   "cordova": {
     "id": "tapsell-puzzley",
